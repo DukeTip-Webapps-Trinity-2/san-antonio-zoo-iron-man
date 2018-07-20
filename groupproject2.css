@@ -6,11 +6,23 @@ body{
 h1{
     Background-color: rgb(50, 50, 50);
     color: blue;
-}*/
+}
+li{
+    font-size: 20px;
+    color: black;
+}
+body{
+    color: lightblue;
+    background-color: darkblue;
 
-
-
-
+}/*
+.About{
+    background-color: blue;
+}
+*/
+.h1Test {
+    color: Gray;
+}
 /*About page stuff*/
 @font-face {
     font-family: tropicalAsian;
